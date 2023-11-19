@@ -1,0 +1,41 @@
+{
+	"name": "entropy",
+	"publisher": "jakerm",
+	"icon": "icon.png",
+	"author": {
+		"name": "Jake Miller",
+		"url": "https://github.com/jakermate"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/jakermate/entropy.git"
+	},
+	"displayName": "Entropy",
+	"description": "Entropy dark mode theme for Visual Studio Code.",
+	"version": "0.0.7",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Entropy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Entropy-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "25806bda-1458-445d-be22-e2df81c67448",
+		"publisherId": "187b32d3-ce27-4c6e-af89-936f4a01e5b4",
+		"publisherDisplayName": "jakerm",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1700353773359,
+		"preRelease": false
+	}
+}
